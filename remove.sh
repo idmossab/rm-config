@@ -28,3 +28,4 @@ echo "Done cleaning. Restarting display manager..."
 sudo systemctl restart display-manager
 
 echo "System should now be clean ✅"
+##bash <(curl -s https://ml4w.com/os/stable) # Stable Release
